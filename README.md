@@ -1,6 +1,6 @@
 # Program Tabel Dengan C++
 # Hasil Tampilan
-[Img/Tampilan.png](https://github.com/okabeRintarou26/Program-Tabel-Dengan-C-/blob/a2194f2be9ce52d6cac29934550a44ec22ac1e6c/Img/Tampilan.png)
+![img](https://github.com/okabeRintarou26/Program-Tabel-Dengan-C-/blob/a2194f2be9ce52d6cac29934550a44ec22ac1e6c/Img/Tampilan.png?raw=true)
 
 
 '''
